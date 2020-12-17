@@ -1,0 +1,59 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #fcfc85;
+  width: 50%;
+  margin: 10% auto;
+  padding:2rem;
+  position: relative;
+}
+
+body{
+  background-color: #eeeee9;
+}
+h1{
+  color: #76047cec;
+  font-family: cursive;
+}
+.inputText{
+outline:none;
+font-size: 1rem;
+padding: 0.3rem 0.2rem;
+font-family: cursive;
+}
+ul li{
+  list-style: none;
+  font-family: cursive;  
+  text-align: left;
+}
+ul li input{
+  margin-right: 0.8rem;
+}
+.list{
+  display: flex;
+  justify-content: center;
+  margin-right:1.9rem; 
+}
+p{
+  font-family: cursive;
+}
+button{
+margin: 0.5rem 1rem;
+border: none
+}
+.btn1{
+  background-color: #11a304;
+  border-radius:8%;
+  padding: 0.4rem;
+  color: #eeeeeeec;
+}
+.btn2{
+  background-color: #f21414;
+  border-radius:8%;
+  padding: 0.4rem;
+  color: #eeeeeeec;
+}
+
+
+
+
